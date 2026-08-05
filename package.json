@@ -1,0 +1,24 @@
+{
+  "name": "wdd330",
+  "version": "1.0.0",
+  "description": "A application for the WDD330 project",
+  "homepage": "https://github.com/hgregori/wdd330#readme",
+  "bugs": {
+    "url": "https://github.com/hgregori/wdd330/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgregori/wdd330.git"
+  },
+  "license": "ISC",
+  "author": "Greg",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^10.8.0",
+    "vite": "^8.2.0"
+  }
+}
