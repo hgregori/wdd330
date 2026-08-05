@@ -1,0 +1,74 @@
+[
+  {
+    "id": "kanto",
+    "name": "Kanto",
+    "generation": 1,
+    "games": ["Red", "Blue", "Yellow", "FireRed", "LeafGreen", "Let's Go Pikachu", "Let's Go Eevee"],
+    "description": "The original region, home to the first 151 Pokémon. Famous for Pallet Town and the powerful Pokémon League at Indigo Plateau.",
+    "color": "#CC0000"
+  },
+  {
+    "id": "johto",
+    "name": "Johto",
+    "generation": 2,
+    "games": ["Gold", "Silver", "Crystal", "HeartGold", "SoulSilver"],
+    "description": "A region steeped in tradition and mystery, connected to Kanto. Known for legendary Pokémon Ho-Oh and Lugia.",
+    "color": "#D4AF37"
+  },
+  {
+    "id": "hoenn",
+    "name": "Hoenn",
+    "generation": 3,
+    "games": ["Ruby", "Sapphire", "Emerald", "Omega Ruby", "Alpha Sapphire"],
+    "description": "A tropical island-heavy region with diverse ecosystems. Home to the weather trio and deep sea mysteries.",
+    "color": "#4682B4"
+  },
+  {
+    "id": "sinnoh",
+    "name": "Sinnoh",
+    "generation": 4,
+    "games": ["Diamond", "Pearl", "Platinum", "Brilliant Diamond", "Shining Pearl"],
+    "description": "A mountainous northern region with rich mythology. Mount Coronet divides the land and hides ancient secrets.",
+    "color": "#8A4FFF"
+  },
+  {
+    "id": "unova",
+    "name": "Unova",
+    "generation": 5,
+    "games": ["Black", "White", "Black 2", "White 2"],
+    "description": "A cosmopolitan region inspired by New York City, featuring entirely new Pokémon and a deep storyline.",
+    "color": "#1C1C1C"
+  },
+  {
+    "id": "kalos",
+    "name": "Kalos",
+    "generation": 6,
+    "games": ["X", "Y"],
+    "description": "A beautiful region inspired by France, introducing Mega Evolution and the first fully 3D Pokémon experience.",
+    "color": "#FF69B4"
+  },
+  {
+    "id": "alola",
+    "name": "Alola",
+    "generation": 7,
+    "games": ["Sun", "Moon", "Ultra Sun", "Ultra Moon"],
+    "description": "A tropical island chain inspired by Hawaii, featuring regional variants and the Island Challenge instead of Gyms.",
+    "color": "#FF8C00"
+  },
+  {
+    "id": "galar",
+    "name": "Galar",
+    "generation": 8,
+    "games": ["Sword", "Shield"],
+    "description": "A region inspired by the United Kingdom, featuring the Gigantamax phenomenon and the Wild Area.",
+    "color": "#006400"
+  },
+  {
+    "id": "paldea",
+    "name": "Paldea",
+    "generation": 9,
+    "games": ["Scarlet", "Violet"],
+    "description": "A vast open-world region inspired by the Iberian Peninsula, introducing Terastallization and three story paths.",
+    "color": "#9B2335"
+  }
+]
